@@ -1,4 +1,9 @@
-theme: minima
-title: veevee's personal blog
-description: This is where I share cool stuff about my life
-author: veevee-z
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+title: Vivian Zhang
+description: hello folks
+author: veevee-zhang
