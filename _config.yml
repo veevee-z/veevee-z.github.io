@@ -3,6 +3,8 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+  minimal_mistakes_skin: default
+  dark_mode: true
 
 title: Vivian Zhang
 description: hello folks
